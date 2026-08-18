@@ -26,7 +26,7 @@ SKILLER is a subscription-based digital football coaching application with video
 3. Or visit: https://github.com/Romanuhutu/test
 
 ## Author
-Roman - Product Designer & Developer at SKILLER
+Romario - Product Designer & Developer at SKILLER
 
 ---
 *Last updated: Aug 18, 2026*
